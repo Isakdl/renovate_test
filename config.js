@@ -3,4 +3,5 @@ module.exports = {
     "Isakdl/serverpod"
   ],
   "prConcurrentLimit": 0,
+  "includeForks": true,
 };
