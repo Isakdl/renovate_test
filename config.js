@@ -1,5 +1,5 @@
 module.exports = {
-  repositories: {
-    "Isakdl/serverpod": {}
-  }
+  repositories: [
+    "Isakdl/serverpod"
+  ]
 };
